@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+af6482258d0c678960136e5508cc3a15a4b07193 refs/remotes/origin/bootstrap4-development
+d0be8d95b0a55c8e6a2920f564ec20e95b95bebc refs/remotes/origin/bs3-heroku-links
+24644ae915c8dab0ed781e811483bc92bfb29a93 refs/remotes/origin/bs4-heroku-links
+510add87af8e54df3abc19758314357c24d3e65b refs/remotes/origin/gh-pages
+516937d2826fde6f28a9e26185c0e996e5ef5b86 refs/remotes/origin/master
+bf34c701e340fa9f140a0e4ed3acdc2d987464c5 refs/tags/v2.0.1
